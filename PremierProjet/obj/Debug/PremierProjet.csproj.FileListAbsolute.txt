@@ -1,0 +1,15 @@
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\bin\Debug\PremierProjet.exe.config
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\bin\Debug\PremierProjet.exe
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\bin\Debug\PremierProjet.pdb
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet.csprojAssemblyReference.cache
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\MainWindow.g.cs
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\App.g.cs
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet_MarkupCompile.cache
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet_MarkupCompile.lref
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\MainWindow.baml
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet.g.resources
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet.Properties.Resources.resources
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet.csproj.GenerateResource.cache
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet.csproj.CoreCompileInputs.cache
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet.exe
+C:\Users\Utisateur\source\repos\PremierProjet\PremierProjet\obj\Debug\PremierProjet.pdb
